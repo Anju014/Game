@@ -4,6 +4,10 @@ const Bodies = Matter.Bodies;
 
 var engine, world;
 
+function preload(){
+  
+}
+
 function setup() {
   createCanvas(400,400);
 
